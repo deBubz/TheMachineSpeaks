@@ -1,4 +1,9 @@
-# Yes
+# nano33ble
+
+This is the code for the standard working baseline code for the wearable device usid for the project Physiyooo
+## Instruction
+
+Open this folder with `vscode` while having the extension `platformio` installed to flash the code onto your `arduino nano 33 ble sense`
 
 ## Dependancies
 
