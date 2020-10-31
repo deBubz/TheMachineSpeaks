@@ -12,7 +12,7 @@ extra pallets to install
 ## instructions
 
 1. please make sure your `node-red` contains the pallets listed above
-2. either import each flow in [individual_flows](./individual_flows) or [a single complete_flow](./complete_flow)
+2. either import each flow in [individual_flows](./individual_flows/) or [a single complete_flow](./complete_flow/)
 
 ## note
 
